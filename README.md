@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Roblox_Studio_icon_2025.svg/417px-Roblox_Studio_icon_2025.svg.png?20250418000138" height="35" alt="roboxstudio logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Roblox_Studio_icon_2025.svg/417px-Roblox_Studio_icon_2025.svg.png?20250418000138" height="35" alt="robloxstudio logo" />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="35" alt="unity logo"  />
   <img width="6" />
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="35" alt="unrealengine logo"  />
@@ -101,10 +101,6 @@
 
 ###
 
-<h4 align="left">Tools</h4>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
   <img width="6" />
@@ -118,6 +114,10 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="35" alt="netlify logo"  />
 </div>
+
+###
+
+<h4 align="left">Tools</h4>
 
 ###
 
