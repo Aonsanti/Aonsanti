@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <a href="https://linktr.ee/yamamoto_katsuya" target="_blank">
+  <a href="https://linktr.ee/SantiNgamcharee" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
   </a>
 </div>
