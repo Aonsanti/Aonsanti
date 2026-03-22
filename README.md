@@ -1,156 +1,117 @@
-<h2 align="center">Welcome to my github profile  , I'm Aon</h2>
-
-###
-
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/qD-f9yFZjy0AAAAd/apeing-ape.gif"  />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=1500&pause=2200&color=00E5FF&background=0a0d1a&center=true&vCenter=true&width=820&height=90&cursorColor=00E5FF&stroke=00BFFF&strokeWidth=4&lines=%3E_%20HELLO%20WORLD%20...%20I%27M%20AON;%3E_%20DEVELOPER%20%2F%2F%20GAMER" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://media1.tenor.com/m/qD-f9yFZjy0AAAAd/apeing-ape.gif" height="180" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+
 </div>
 
-###
+<br/>
 
-<h4 align="left">ⓘ About me</h4>
+## About Me
 
-###
+```yaml
+Name        : Aon
+University  : King Mongkut's University of Technology North Bangkok
+Year        : 3rd Year
+Focus       : Game Development & Web Development
+Languages   : Java · C++ · C#
+Passion     : Create Game and System with code
+Status      : Open to opportunities
+```
 
-<p align="left">🏫 I'm currently studying at King Mongkut's University of Technology North Bangkok for a third-year<br>🌟 My favorite code language : Java , C++<br>❤️‍🔥 My passion : I love to create a game and code for game with coding or blueprints<br>👀 If you looking for who have passion and really love in game development choose me you will not regret it</p>
+<br/>
 
-###
-
-<h2 align="center">🔗 My Link Here 👇</h2>
-
-###
+## Connect
 
 <div align="center">
   <a href="https://linktr.ee/SantiNgamcharee" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+    <img src="https://img.shields.io/badge/%20LINKTREE%20-0a0d1a?style=for-the-badge&logo=linktree&logoColor=00E5A0&labelColor=0a0d1a&color=0a0d1a" height="100" width="20%" />
   </a>
 </div>
 
-###
-
-<h2 align="center">🎮 Game Tech Stack</h2>
-
-###
-
-<h4 align="left">Engine</h4>
-
-###
-
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Roblox_Studio_icon_2025.svg/960px-Roblox_Studio_icon_2025.svg.png" height="35" alt="robloxstudio logo" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="35" alt="unity logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="35" alt="unrealengine logo"  />
-</div>
-
-###
-
-<h4 align="left">Language</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="35" alt="csharp logo"  />
-</div>
-
-###
-
-<h4 align="left">Core Skills</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="35" alt="cplusplus logo"  />
-</div>
-
-###
-
-<h4 align="left">Tools</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="35" alt="vscode logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="35" alt="blender logo"  />
-</div>
-
-###
-
-<h2 align="center">🌐 Website Tech Stack</h2>
-
-###
-
-<h4 align="left">Frontend</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="35" alt="react logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="35" alt="css logo"  />
-</div>
-
-###
-
-<h4 align="left">Backend</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="35" alt="nodejs logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="35" alt="apache logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="35" alt="docker logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="35" alt="netlify logo"  />
-</div>
-
-###
-
-<h4 align="left">Tools</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="35" alt="vscode logo"  />
-</div>
-
-###
-
-<h2 align="center">🧰 Other Tech Stack</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dot-net logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellijidea logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="30" alt="pycharm logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="30" alt="notion logo"  />
-</div>
-
-###
+<br/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aonsanti.Aonsanti&right_color=cornflowerblue&left_text=Profile%20Visitor"  />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
 </div>
 
-###
+<br/>
+
+## Engine
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=unity,unrealengine&theme=dark" height="48" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Roblox_Studio_icon_2025.svg/960px-Roblox_Studio_icon_2025.svg.png" height="48" alt="Roblox Studio" />
+</div>
+
+<br/>
+
+## Language
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,js&theme=dark" height="48" />
+</div>
+
+<br/>
+
+## Frontend
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" height="48" />
+</div>
+
+<br/>
+
+## Backend
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,mysql&theme=dark" height="48" />
+</div>
+
+<br/>
+
+## Deployment
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=netlify,vercel&theme=dark" height="48" />
+</div>
+
+<br/>
+
+## Tools
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,blender,figma,notion&theme=dark" height="48" />
+</div>
+
+<br/>
+
+## Other
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,dotnet&theme=dark" height="48" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aonsanti.Aonsanti&right_color=1E3A5F&left_text=Profile%20Visitor" />
+</div>
+
+<br/>
+
+</div>
